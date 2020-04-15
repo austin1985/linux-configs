@@ -1,3 +1,3 @@
-Configuration files for Linux based applications.
+# Configuration files for Linux based applications. #
 
-Vim/NeoVim
+### Vim/NeoVim ###
